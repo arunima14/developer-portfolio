@@ -1,23 +1,23 @@
 export const educationData = [
-    {
-        id: 1,
-        institution: 'Marble Hills Middle School',
-        course: 'Higher Secondary Education',
-        startYear: '2007',
-        endYear: '2015'
-    },
-    {
-        id: 2,
-        institution: 'Somerset School of Science',
-        course: 'Bachelor of Technology',
-        startYear: '2015',
-        endYear: '2019'
-    },
-    {
-        id: 3,
-        institution: 'Hawking University, Cambridge',
-        course: 'Master of Technology',
-        startYear: '2019',
-        endYear: 'Present'
-    },
-]
+  {
+    id: 1,
+    institution: "VIT Bhopal University",
+    course: "Bachelor of Technology",
+    startYear: "2020",
+    endYear: "Present",
+  },
+  {
+    id: 2,
+    institution: "U.P. Kirana Seva Samiti Vidyalaya",
+    course: "intermediate",
+    startYear: "2018",
+    endYear: "2020",
+  },
+  {
+    id: 3,
+    institution: "U.P. Kirana Seva Samiti Vidyalaya",
+    course: "High School",
+    startYear: "2006",
+    endYear: "2018",
+  },
+];
