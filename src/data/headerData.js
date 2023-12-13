@@ -1,4 +1,4 @@
-import resume from "../assets/pdf/resume.pdf";
+import resume from "../assets/pdf/Arunima_Singh_SDE_Resume.pdf";
 import userImage from "../assets/png/userImage.png";
 
 export const headerData = {
